@@ -29,8 +29,7 @@ https://tglmp04.akamaized.net/out/v1/400fc0702dee453bb33ebcc29466e58a/manifest.m
 
                 ==========MLS=======
 
-#EXTINF:-1 group-logo="https://i.ibb.co.com/B6FStGg/unnamed-1.png",
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNIrO-lRENdD1kQR4GENQ6UPRSI9_R2lOlm2HIZ1SKyqp6lhMmI7GPC4Q&s=10" Group-title="MAJOR LEAGUE SOCCER", SERVER 1
+#EXTINF:-1 group-logo="https://i.ibb.co.com/B6FStGg/unnamed-1.png", tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNIrO-lRENdD1kQR4GENQ6UPRSI9_R2lOlm2HIZ1SKyqp6lhMmI7GPC4Q&s=10" Group-title="MAJOR LEAGUE SOCCER", SERVER 1
 #EXTVLCOPT:http-referrer=https://vida.cleanknow4wniq.sbs/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 https://hls.uouetrq19.com/live/sd-6MtMPPaLPWvch3hRw5.m3u8?txSecret=5e6d5ea78c9bc903926dbfc972025fac&txTime=687D9A62
