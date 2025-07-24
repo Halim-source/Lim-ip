@@ -1266,7 +1266,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/MNCMuslim/sa_dash_vmx/MNCMuslim.mpd
 
 
                   ==========SPORT========
-
+#EXTINF:-1 group-logo="https://i.ibb.co/dw0G7hSs/pngtree-sport-vector-text-effect-with-transparent-background-png-image-5548383.jpg",
 
 #EXTINF:-1 tvg-id="" tvg-name="MY| ASTRO BADMINTON HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Astro_Badminton_%282024%29.png/640px-Astro_Badminton_%282024%29.png" group-title="SPORT",ASTRO BADMINTON HD
 https://smart.pendy.dpdns.org/Smart.php?id=go_badminton1
