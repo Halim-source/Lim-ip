@@ -7,7 +7,7 @@
          ===== ASEAN U23 ======
             
 #tvg-logo-title="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiXqbAxyX01fJqADZIQOWq7Q_XCjHKKBLirA&s"#       
-#EXTINF:-1 group-logo="https://i.ibb.co.com/B6FStGg/unnamed-1.png", tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSp0cLnDzJZ3PN3-nQ5Uyn2Ee1z9vRhUd0d7MnP_pswLeMqGlleDS-gH497&s=10" Group-title="ASEAN U23 CHAMPIONSHIP", SERVER 1
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSp0cLnDzJZ3PN3-nQ5Uyn2Ee1z9vRhUd0d7MnP_pswLeMqGlleDS-gH497&s=10" Group-title="ASEAN U23 CHAMPIONSHIP", SERVER 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=91b9592c819246c68b3b08a1fe08ba22:fa0d80dfd865b34077bae44cd4a0c5e6
 https://tglmp04.akamaized.net/out/v1/400fc0702dee453bb33ebcc29466e58a/manifest.mpd
@@ -29,7 +29,7 @@ https://tglmp04.akamaized.net/out/v1/400fc0702dee453bb33ebcc29466e58a/manifest.m
 
                 ==========MLS=======
 
-#EXTINF:-1 group-logo="https://i.ibb.co.com/B6FStGg/unnamed-1.png", tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNIrO-lRENdD1kQR4GENQ6UPRSI9_R2lOlm2HIZ1SKyqp6lhMmI7GPC4Q&s=10" Group-title="MAJOR LEAGUE SOCCER", SERVER 1
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNIrO-lRENdD1kQR4GENQ6UPRSI9_R2lOlm2HIZ1SKyqp6lhMmI7GPC4Q&s=10" Group-title="MAJOR LEAGUE SOCCER", SERVER 1
 #EXTVLCOPT:http-referrer=https://vida.cleanknow4wniq.sbs/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 https://hls.uouetrq19.com/live/sd-6MtMPPaLPWvch3hRw5.m3u8?txSecret=5e6d5ea78c9bc903926dbfc972025fac&txTime=687D9A62
@@ -45,7 +45,6 @@ https://tfnl4gr3uomttgr31hctigyzd1ptpqb4sa5dzqcssqh5df3w8o4mq8rho.100ycdn.com/pu
 #EXTVLCOPT:http-referrer=https://vida.cleanknow4wniq.sbs/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 https://hls.uouetrq19.com/live/sd-6MtMPPb4iK5wd1kS9u.m3u8?txSecret=9b4d277068250c601032d1cd181d3c7d&txTime=687D9A62
-#EXTINF:-1 group-logo="https://i.ibb.co.com/B6FStGg/unnamed-1.png",
 
 
 
@@ -100,7 +99,7 @@ https://4c9acbfc5736afa854fa764f3bafa98e.v.smtcdns.net/play.cbalive.weibisai.com
 
 
                  ==========VNL===========
-group-logo="https://i.ibb.co.com/B6FStGg/unnamed-1.png",
+#EXTINF:-1 group-logo="https://i.ibb.co.com/B6FStGg/unnamed-1.png",
 
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/ID3cNX5MkSkdvHoO_Igk1sdSv_g=/1568x882/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/cover/18954/volleyball-nations-league-cover-d06332.jpg" Group-title="VOLLEYBALL NATIONS LEAGUE", SERVER 1
 #EXTVLCOPT:http-referrer=https://vida.cleanknow4wniq.sbs/
